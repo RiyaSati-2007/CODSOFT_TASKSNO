@@ -58,6 +58,6 @@ python recommendation_system.py
 
 ## 👩‍💻 Author
 
-**Harshpriya Pandey**
+**Riya Sati**
 
 Artificial Intelligence Intern @ CODSOFT
